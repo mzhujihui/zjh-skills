@@ -11,14 +11,14 @@
 
 | Skill | 简介 | 安装命令 |
 |-------|------|---------|
-| [**figma-batch-icons**](./skills/figma-batch-icons/) | 将 Figma 容器节点下的一组 Icon 批量导出为 SVG（高亮态 / 置灰态），并在上传 COS 后自动生成映射表 | `npx skills add zjh/zjh-skills --path skills/figma-batch-icons` |
+| [**figma-batch-icons**](./skills/figma-batch-icons/) | 将 Figma 容器节点下的一组 Icon 批量导出为 SVG（高亮态 / 置灰态），并在上传 COS 后自动生成映射表 | `npx skills add mzhujihui/zjh-skills --path skills/figma-batch-icons` |
 
 ## Quick Start
 
 使用以下命令安装任意 skill：
 
 ```bash
-npx skills add zjh/zjh-skills --path skills/<skill-name>
+npx skills add mzhujihui/zjh-skills --path skills/<skill-name>
 ```
 
 安装完成后，在 Agent 终端中调用：
