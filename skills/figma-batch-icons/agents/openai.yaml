@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma 批量图标"
+  short_description: "批量导出 Figma 图标并生成本地映射表"
+  default_prompt: "Use $figma-batch-icons to export paired SVG icons from a Figma container and build a mapping table after I provide a COS base path."

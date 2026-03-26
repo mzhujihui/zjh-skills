@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "order": 1,
+      "name": "喂奶",
+      "key": "breastfeeding",
+      "activeFile": "breastfeeding.svg",
+      "inactiveFile": "breastfeeding_disabled.svg",
+      "activeUrl": "https://www.figma.com/api/mcp/asset/example-active",
+      "inactiveUrl": "https://www.figma.com/api/mcp/asset/example-inactive",
+      "note": ""
+    },
+    {
+      "order": 20,
+      "name": "妈妈体重",
+      "key": "mother_weight",
+      "activeFile": "weight.svg",
+      "inactiveFile": "weight_disabled.svg",
+      "note": "复用 weight 图标"
+    }
+  ]
+}
